@@ -39,7 +39,7 @@ It is definitely a lot. We plan (and would be very happy) to get Volume I re-typ
 There is a team of people involved in this project.
 
 ## Principal Investigator
-The principal investigator is Western Kentucky University's resident logical atomist, [Landon D. C. Elkind](https://landonelkind.com) ([Assistant Professor of Philosophy](https://www.wku.edu/philosophy-religion/), [Department of Political Science](https://www.wku.edu/political-science/)). The project began on September 1st, 2020, and was first undertaken while Elkind was a Izaak Walton Killam Postdoctoral Fellow in the [Department of Philosophy](https://www.ualberta.ca/philosophy/index.html) at the University of Alberta.
+The principal investigator is Western Kentucky University's resident logical atomist, [Landon D. C. Elkind](https://landondcelkind.com) ([Assistant Professor of Philosophy](https://www.wku.edu/philosophy-religion/), [Department of Political Science](https://www.wku.edu/political-science/)). The project began on September 1st, 2020, and was first undertaken while Elkind was a Izaak Walton Killam Postdoctoral Fellow in the [Department of Philosophy](https://www.ualberta.ca/philosophy/index.html) at the University of Alberta.
 
 ## Advisory Board
 - Rodrigo Ferreira ([Federal University of Rio Grande do Sul-Brazil](https://sites.google.com/view/rsferreira))
